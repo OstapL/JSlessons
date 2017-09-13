@@ -107,4 +107,4 @@ return s;
 };
 
 
-console.log('this is vlad/test branch');
+console.log('this is master branch updated by Vlad');
